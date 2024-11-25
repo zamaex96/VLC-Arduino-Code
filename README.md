@@ -104,9 +104,9 @@ This Arduino code reads data from a sensor connected to `sensorPin` and communic
 - The use of delay times (`DELAY`) ensures proper timing for sensor readings and data transmission.
 - Serial print statements provide debug and output information for monitoring sensor readings and error rates.
 
-  <div align="center">
+<div align="center">
   <a href="https://maazsalman.org/">
-    <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="gh" />
+    <img width="70" src="click-svgrepo-com.svg" alt="gh" />
   </a>
   <p> Explore More! 🚀</p>
 </div>
